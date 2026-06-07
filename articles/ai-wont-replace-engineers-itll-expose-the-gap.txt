@@ -1,0 +1,346 @@
+1:"$Sreact.fragment"
+2:I[2635,["909","static/chunks/909-a5da60d248a1c133.js","409","static/chunks/409-0404a604300a0914.js","177","static/chunks/app/layout-2e5af91d2eb5dd2b.js"],"Navbar"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[7628,["909","static/chunks/909-a5da60d248a1c133.js","409","static/chunks/409-0404a604300a0914.js","177","static/chunks/app/layout-2e5af91d2eb5dd2b.js"],"SWRegistry"]
+6:I[7989,[],"ClientSegmentRoot"]
+7:I[8134,["571","static/chunks/app/articles/%5Bslug%5D/layout-2a60829b2fb65e52.js"],"default"]
+8:I[9108,["909","static/chunks/909-a5da60d248a1c133.js","263","static/chunks/app/articles/%5Bslug%5D/not-found-78854773fcd0967d.js"],"default"]
+b:I[4431,[],"OutletBoundary"]
+d:I[5278,[],"AsyncMetadataOutlet"]
+12:I[7150,[],""]
+:HL["/_next/static/media/36966cca54120369-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/61635d3defe4c0eb.css","style"]
+0:{"P":null,"b":"noUl8aakBQZnC0OBiB4TM","p":"","c":["","articles","ai-wont-replace-engineers-itll-expose-the-gap"],"i":false,"f":[[["",{"children":["articles",{"children":[["slug","ai-wont-replace-engineers-itll-expose-the-gap","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/61635d3defe4c0eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","children":[["$","head",null,{"children":[["$","link",null,{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta",null,{"name":"theme-color","content":"#050816"}],["$","meta",null,{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta",null,{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"JSV Kosuri"}],["$","link",null,{"rel":"apple-touch-icon","href":"/icons/icon-192.png"}]]}],["$","body",null,{"className":"__variable_f367f3 __variable_dd5b2f bg-background-page text-text-primary antialiased","children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 z-[60] rounded-lg bg-accent-blue px-4 py-2 text-sm font-medium text-background-page","children":"Skip to content"}],["$","div",null,{"className":"flex min-h-screen flex-col","children":[["$","$L2",null,{}],["$","main",null,{"id":"main-content","className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-border-subtle bg-background-section","children":["$","div",null,{"className":"mx-auto flex max-w-7xl items-center justify-between px-6 py-6 lg:px-8","children":[["$","p",null,{"className":"text-sm text-text-muted","children":["© ",2026," ","Jitendra Santosh Varma Kosuri",". All rights reserved."]}],["$","a",null,{"href":"#home","aria-label":"Back to top","className":"rounded-lg p-2 text-text-muted transition-colors hover:bg-[rgba(148,163,184,0.08)] hover:text-text-secondary","children":["$","svg",null,{"className":"h-5 w-5","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","xmlns":"http://www.w3.org/2000/svg","children":["$","polyline",null,{"points":"18 15 12 9 6 15"}]}]}]]}]}]]}],["$","$L5",null,{}]]}]]}]]}],{"children":["articles",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","ai-wont-replace-engineers-itll-expose-the-gap","d"],["$","$1","c",{"children":[null,["$","$L6",null,{"Component":"$7","slots":{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L8",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{"slug":"ai-wont-replace-engineers-itll-expose-the-gap"},"promise":"$@9"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$La",null,["$","$Lb",null,{"children":["$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":["$Lf","$L10","$L11"]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+13:I[4431,[],"ViewportBoundary"]
+15:I[4431,[],"MetadataBoundary"]
+16:"$Sreact.suspense"
+f:null
+10:[["$","$L13",null,{"children":"$L14"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]
+11:["$","$L15",null,{"children":["$","div",null,{"hidden":true,"children":["$","$16",null,{"fallback":null,"children":"$L17"}]}]}]
+9:"$0:f:0:1:2:children:2:children:1:props:children:1:props:params"
+a:[["$","script",null,{"id":"article-schema","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"AI Won't Replace Engineers: It'll Expose the Gap\",\"description\":\"AI coding tools can generate working software faster than ever, but they can't replace engineering judgment. Learn why system design, data ownership, architecture, and debugging matter more in the age of AI-assisted development.\",\"datePublished\":\"2026-04-25\",\"dateModified\":\"2026-04-25\",\"author\":{\"@type\":\"Person\",\"name\":\"Jitendra Santosh Varma Kosuri\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Jitendra Santosh Varma Kosuri\",\"url\":\"https://jsvkosuri.com\"},\"image\":\"/images/articles/ai-wont-replace-engineers.png\",\"url\":\"https://jsvkosuri.com/articles/ai-wont-replace-engineers-itll-expose-the-gap\"}"}}],["$","script",null,{"id":"breadcrumb-schema","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://jsvkosuri.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Articles\",\"item\":\"https://jsvkosuri.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"AI Won't Replace Engineers: It'll Expose the Gap\",\"item\":\"https://jsvkosuri.com/articles/ai-wont-replace-engineers-itll-expose-the-gap\"}]}"}}],"$L18"]
+19:T2245,<blockquote>
+<p>"Bro, this worked first try."</p>
+</blockquote>
+<p>A junior engineer on the team opened a pull request in about two hours.</p>
+<p>Prompt → Agent → Done.</p>
+<p>Using tools like Cursor and Claude Code, they:</p>
+<ul>
+<li>Built APIs</li>
+<li>Wired services together</li>
+<li>Handled "edge cases"</li>
+</ul>
+<p>The code looked clean.</p>
+<p><strong>LGTM 👍 Merged.</strong></p>
+<p>Three days later:</p>
+<ul>
+<li>The system is slower</li>
+<li>Infrastructure costs are creeping up</li>
+<li>Random bugs keep showing up</li>
+<li>Fixes are breaking unrelated flows</li>
+</ul>
+<p>Nothing is obviously broken.</p>
+<p>No crashes.</p>
+<p>No red alerts.</p>
+<p>Just constant friction.</p>
+<p><strong>Death by a thousand small bugs.</strong></p>
+<hr>
+<h2>Let's Zoom In on What Actually Happened</h2>
+<p>Here's a simplified version of the system:</p>
+<pre><code class="language-text">Client → API → Worker → External Service → Database
+</code></pre>
+<p>Sounds normal.</p>
+<p>But underneath:</p>
+<ul>
+<li>The API recomputed the same response for every request</li>
+<li>The worker recomputed it again "just to be safe"</li>
+<li>External service calls were never cached</li>
+<li>State was stored in both the API layer and the worker</li>
+</ul>
+<h3>What That Caused</h3>
+<ul>
+<li>3× duplicate computation per request</li>
+<li>~40% increase in latency under load</li>
+<li>Rising infrastructure costs from repeated external calls</li>
+<li>State drift leading to inconsistent behavior</li>
+</ul>
+<p>None of this appeared in the pull request review.</p>
+<p>Because locally:</p>
+<blockquote>
+<p>The code worked.</p>
+</blockquote>
+<hr>
+<h2>What Actually Went Wrong?</h2>
+<p>Not:</p>
+<blockquote>
+<p>AI wrote bad code.</p>
+</blockquote>
+<p>The issue was more specific.</p>
+<p>There was:</p>
+<ul>
+<li>No clear ownership of data</li>
+<li>No control over where computation happens</li>
+<li>No visibility into repeated work</li>
+</ul>
+<p>And most importantly:</p>
+<blockquote>
+<p>No one reviewed the system as a system.</p>
+</blockquote>
+<hr>
+<h2>The Problem Nobody Says Out Loud</h2>
+<p>We've made it possible to produce working code without fully understanding the system behind it.</p>
+<p>And that changes how people build software.</p>
+<h3>Before</h3>
+<p>You had to think through structure to make progress.</p>
+<h3>Now</h3>
+<p>You can generate progress without thinking through structure.</p>
+<p>And that gap is where problems begin.</p>
+<hr>
+<h2>What People Call "AI Engineering" Is Still Engineering</h2>
+<p>Under all the prompts, agents, and copilots, nothing fundamental has changed.</p>
+<p>Good systems still depend on:</p>
+<ul>
+<li>How data is structured</li>
+<li>How data flows</li>
+<li>How decisions are made</li>
+<li>How behavior is controlled</li>
+</ul>
+<p>AI didn't remove these requirements.</p>
+<p>It simply made them easier to ignore.</p>
+<hr>
+<h2>Let's Break That Down</h2>
+<h3>🧠 Data Structures (What Actually Matters)</h3>
+<p>Not:</p>
+<ul>
+<li>Reversing a linked list</li>
+<li>Memorizing interview questions</li>
+</ul>
+<p>But:</p>
+<ul>
+<li>Where does data live?</li>
+<li>Who owns it?</li>
+<li>Why is it being copied?</li>
+<li>Why is this query slow?</li>
+</ul>
+<p>In the example:</p>
+<ul>
+<li>Data existed in multiple layers</li>
+<li>There was no single source of truth</li>
+<li>Duplication created inconsistency</li>
+</ul>
+<p>That's not an edge case.</p>
+<p>That's a structural flaw.</p>
+<hr>
+<h3>⚙️ Algorithms (What Actually Matters)</h3>
+<p>Not:</p>
+<ul>
+<li>Solving Dijkstra's algorithm on a whiteboard</li>
+</ul>
+<p>But:</p>
+<ul>
+<li>Why does this API degrade under load?</li>
+<li>Why is the agent looping excessively?</li>
+<li>Why did infrastructure costs suddenly spike?</li>
+</ul>
+<p>In the system:</p>
+<ul>
+<li>Execution paths were inefficient</li>
+<li>Decisions weren't bounded</li>
+<li>Expensive operations had no guardrails</li>
+</ul>
+<p>The result:</p>
+<blockquote>
+<p>The system worked—but inefficiently and unpredictably.</p>
+</blockquote>
+<hr>
+<h3>🧱 Design Patterns (What Actually Matters)</h3>
+<p>Not:</p>
+<ul>
+<li>Memorizing patterns from a catalog</li>
+</ul>
+<p>But:</p>
+<ul>
+<li>Separating responsibilities</li>
+<li>Isolating logic</li>
+<li>Making behavior predictable</li>
+</ul>
+<p>Without these principles:</p>
+<ul>
+<li>Logic leaks across layers</li>
+<li>Fixes pile on top of fixes</li>
+<li>Debugging becomes guesswork</li>
+</ul>
+<hr>
+<h3>🌐 System Thinking (The Real Skill)</h3>
+<p>This is the difference between:</p>
+<blockquote>
+<p>"It works."</p>
+</blockquote>
+<p>and</p>
+<blockquote>
+<p>"It will keep working."</p>
+</blockquote>
+<p>Questions that matter:</p>
+<ul>
+<li>What happens under load?</li>
+<li>Where does this fail first?</li>
+<li>What happens if one component goes down?</li>
+<li>Why is this difficult to debug?</li>
+</ul>
+<p>If you're not asking these questions:</p>
+<p>You're not designing a system.</p>
+<p>You're assembling one.</p>
+<hr>
+<h2>Why This Matters More Now—Not Less</h2>
+<h3>Before AI</h3>
+<p>You built everything manually.</p>
+<p>Structure was unavoidable.</p>
+<h3>After AI</h3>
+<p>AI builds things quickly.</p>
+<p>Structure feels optional.</p>
+<p>And many engineers are skipping it.</p>
+<hr>
+<h2>That's Why the Bugs Don't Stop</h2>
+<p>Not major outages.</p>
+<p>Not catastrophic failures.</p>
+<p>Small things:</p>
+<ul>
+<li>Missed edge cases</li>
+<li>Inefficient execution paths</li>
+<li>Hidden coupling</li>
+<li>Unpredictable behavior</li>
+</ul>
+<p>And they slip through because:</p>
+<ul>
+<li>Pull requests are larger</li>
+<li>Generated code is trusted too easily</li>
+<li>Reviews focus on syntax instead of systems</li>
+<li>Leads don't have time to trace every path</li>
+</ul>
+<p>The result:</p>
+<blockquote>
+<p>The system degrades quietly.</p>
+</blockquote>
+<hr>
+<h2>A Quick Note: AI Isn't the Enemy</h2>
+<p>Used correctly, AI is a force multiplier.</p>
+<p>It can:</p>
+<ul>
+<li>Accelerate prototyping</li>
+<li>Reduce boilerplate</li>
+<li>Explore solution spaces faster</li>
+<li>Increase engineering velocity</li>
+</ul>
+<p>Strong engineers become faster with AI.</p>
+<p>But weak structure gets amplified too.</p>
+<blockquote>
+<p>AI scales output—good or bad.</p>
+</blockquote>
+<hr>
+<h2>Two Engineers, Same Tools</h2>
+<h3>Engineer A</h3>
+<ul>
+<li>Generates everything</li>
+<li>Merges large pull requests</li>
+<li>Trusts output by default</li>
+</ul>
+<p><strong>Result</strong></p>
+<ul>
+<li>Constant small bugs</li>
+<li>Growing system complexity</li>
+<li>Increasing operational friction</li>
+</ul>
+<hr>
+<h3>Engineer B</h3>
+<ul>
+<li>Generates quickly</li>
+<li>Rewrites critical paths</li>
+<li>Reviews data flow</li>
+<li>Reviews control flow</li>
+<li>Questions assumptions</li>
+</ul>
+<p><strong>Result</strong></p>
+<ul>
+<li>Stable systems</li>
+<li>Predictable behavior</li>
+<li>Sustainable velocity</li>
+</ul>
+<p>The difference isn't tooling.</p>
+<p>It's understanding.</p>
+<hr>
+<h2>How to Review AI-Generated Code</h2>
+<p>Before approving a pull request, ask:</p>
+<h3>Data</h3>
+<ul>
+<li>Where is the source of truth?</li>
+<li>Is data duplicated anywhere?</li>
+</ul>
+<h3>Computation</h3>
+<ul>
+<li>Is anything being recomputed unnecessarily?</li>
+<li>Can results be cached?</li>
+</ul>
+<h3>Control Flow</h3>
+<ul>
+<li>Are retries bounded?</li>
+<li>Are loops bounded?</li>
+<li>What are the failure paths?</li>
+</ul>
+<h3>System Behavior</h3>
+<ul>
+<li>What happens under load?</li>
+<li>What happens if a dependency fails?</li>
+<li>What happens if latency spikes?</li>
+</ul>
+<p>If you can't answer these questions:</p>
+<blockquote>
+<p>You're not done reviewing.</p>
+</blockquote>
+<hr>
+<h2>So What Should You Actually Do?</h2>
+<p>Don't spend all your time grinding random algorithm questions.</p>
+<p>That's not the point.</p>
+<p>Instead:</p>
+<ul>
+<li>Trace requests end-to-end (API → Service → Database → Response)</li>
+<li>Study logs and metrics, not just code</li>
+<li>Break features into small, testable units</li>
+<li>Keep pull requests small enough to reason about</li>
+<li>Ask "What breaks?" before asking "Does it work?"</li>
+</ul>
+<hr>
+<h2>Use AI Like an Amplifier</h2>
+<p>The right sequence is:</p>
+<pre><code class="language-text">Generate → Analyze
+Build → Restructure
+Ship → Stress Test
+</code></pre>
+<p>Not:</p>
+<pre><code class="language-text">Generate → Merge → Hope
+</code></pre>
+<hr>
+<h2>Final Thought</h2>
+<p>AI won't replace engineers.</p>
+<p>But it will expose:</p>
+<ul>
+<li>Who understands systems</li>
+<li>And who simply generates them</li>
+</ul>
+<p>In a world where everyone can generate code:</p>
+<p>The advantage shifts to engineers who can:</p>
+<ul>
+<li>Debug systems</li>
+<li>Shape architectures</li>
+<li>Control complexity</li>
+<li>Understand trade-offs</li>
+</ul>
+<p>Because code generation is becoming abundant.</p>
+<p>System thinking is not.</p>
+18:["$","article",null,{"className":"animate-fade-up","children":[["$","div",null,{"className":"relative h-48 sm:h-64 md:h-80 lg:h-96","children":[["$","div",null,{"className":"absolute inset-0 bg-gradient-to-br from-accent-blue/10 via-background-elevated to-accent-purple/10"}],["$","img",null,{"src":"/images/articles/ai-wont-replace-engineers.png","alt":"AI Won't Replace Engineers: It'll Expose the Gap","width":1200,"height":514,"fetchPriority":"low","className":"h-full w-full object-cover","loading":"lazy","decoding":"async"}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-background-page via-transparent to-transparent"}]]}],["$","div",null,{"className":"mx-auto max-w-3xl px-6 py-12 lg:px-8","children":[["$","div",null,{"className":"mb-6 flex items-center gap-3","children":[["$","span",null,{"className":"inline-flex items-center rounded-md px-2.5 py-0.5 text-xs font-medium bg-[rgba(56,189,248,0.12)] text-accent-blue","children":"AI Engineering"}],["$","span",null,{"className":"text-sm text-text-muted","children":["2026-04-25"," · ","7 min read"]}]]}],["$","h1",null,{"className":"font-display font-bold leading-tight tracking-tight text-text-primary text-h1","children":"AI Won't Replace Engineers: It'll Expose the Gap"}],["$","p",null,{"className":"mt-4 text-lg leading-relaxed text-text-muted sm:text-xl","children":"AI makes code generation abundant. System thinking becomes the differentiator."}],["$","div",null,{"className":"my-10 h-px bg-gradient-to-r from-transparent via-border-subtle to-transparent"}],["$","div",null,{"className":"prose prose-invert prose-lg max-w-none prose-headings:font-display prose-headings:font-semibold prose-headings:text-text-primary prose-h1:text-h2 prose-h2:text-h2 prose-h3:text-h3 prose-h4:text-h3 prose-p:text-text-secondary prose-p:leading-relaxed prose-a:text-accent-blue prose-a:no-underline prose-a:hover:underline prose-strong:text-text-primary prose-strong:font-semibold prose-blockquote:border-accent-blue prose-blockquote:bg-background-elevated/50 prose-blockquote:py-2 prose-blockquote:px-4 prose-blockquote:rounded-lg prose-code:text-accent-cyan prose-code:bg-background-elevated/50 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-pre:bg-background-elevated prose-pre:border prose-pre:border-border-subtle prose-pre:rounded-lg prose-ul:list-disc prose-ol:list-decimal prose-li:text-text-secondary prose-img:rounded-lg prose-img:shadow-card prose-hr:border-border-subtle","dangerouslySetInnerHTML":{"__html":"$19"}}]]}]]}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+c:null
+1a:I[622,[],"IconMark"]
+e:{"metadata":[["$","title","0",{"children":"AI Won't Replace Engineers: It'll Expose the Gap | Jitendra Santosh Varma Kosuri"}],["$","meta","1",{"name":"description","content":"AI coding tools can generate working software faster than ever, but they can't replace engineering judgment. Learn why system design, data ownership, architecture, and debugging matter more in the age of AI-assisted development."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"AI Engineering,Enterprise GenAI,Multi-Agent Systems,RAG Architecture,Enterprise AI,Solution Architecture,Platform Engineering,AI Transformation"}],["$","link","4",{"rel":"canonical","href":"https://jsvkosuri.com/articles/ai-wont-replace-engineers-itll-expose-the-gap"}],["$","meta","5",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","6",{"name":"apple-mobile-web-app-title","content":"JSV Kosuri"}],["$","meta","7",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","meta","8",{"property":"og:title","content":"AI Won't Replace Engineers: It'll Expose the Gap"}],["$","meta","9",{"property":"og:description","content":"AI coding tools can generate working software faster than ever, but they can't replace engineering judgment. Learn why system design, data ownership, architecture, and debugging matter more in the age of AI-assisted development."}],["$","meta","10",{"property":"og:url","content":"https://jsvkosuri.com/articles/ai-wont-replace-engineers-itll-expose-the-gap"}],["$","meta","11",{"property":"og:image","content":"https://jsvkosuri.com/images/articles/ai-wont-replace-engineers.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"AI Won't Replace Engineers: It'll Expose the Gap"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-04-25"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"AI Won't Replace Engineers: It'll Expose the Gap"}],["$","meta","19",{"name":"twitter:description","content":"AI coding tools can generate working software faster than ever, but they can't replace engineering judgment. Learn why system design, data ownership, architecture, and debugging matter more in the age of AI-assisted development."}],["$","meta","20",{"name":"twitter:image","content":"https://jsvkosuri.com/images/articles/ai-wont-replace-engineers.png"}],["$","link","21",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","link","22",{"rel":"apple-touch-icon","href":"/icons/icon-192.png"}],["$","$L1a","23",{}]],"error":null,"digest":"$undefined"}
+17:"$e:metadata"

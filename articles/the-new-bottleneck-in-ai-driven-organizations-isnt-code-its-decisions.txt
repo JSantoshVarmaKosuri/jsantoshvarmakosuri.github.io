@@ -1,0 +1,246 @@
+1:"$Sreact.fragment"
+2:I[2635,["909","static/chunks/909-a5da60d248a1c133.js","409","static/chunks/409-0404a604300a0914.js","177","static/chunks/app/layout-2e5af91d2eb5dd2b.js"],"Navbar"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[7628,["909","static/chunks/909-a5da60d248a1c133.js","409","static/chunks/409-0404a604300a0914.js","177","static/chunks/app/layout-2e5af91d2eb5dd2b.js"],"SWRegistry"]
+6:I[7989,[],"ClientSegmentRoot"]
+7:I[8134,["571","static/chunks/app/articles/%5Bslug%5D/layout-2a60829b2fb65e52.js"],"default"]
+8:I[9108,["909","static/chunks/909-a5da60d248a1c133.js","263","static/chunks/app/articles/%5Bslug%5D/not-found-78854773fcd0967d.js"],"default"]
+c:I[7150,[],""]
+:HL["/_next/static/media/36966cca54120369-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/61635d3defe4c0eb.css","style"]
+0:{"P":null,"b":"noUl8aakBQZnC0OBiB4TM","p":"","c":["","articles","the-new-bottleneck-in-ai-driven-organizations-isnt-code-its-decisions"],"i":false,"f":[[["",{"children":["articles",{"children":[["slug","the-new-bottleneck-in-ai-driven-organizations-isnt-code-its-decisions","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/61635d3defe4c0eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","children":[["$","head",null,{"children":[["$","link",null,{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta",null,{"name":"theme-color","content":"#050816"}],["$","meta",null,{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta",null,{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"JSV Kosuri"}],["$","link",null,{"rel":"apple-touch-icon","href":"/icons/icon-192.png"}]]}],["$","body",null,{"className":"__variable_f367f3 __variable_dd5b2f bg-background-page text-text-primary antialiased","children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 z-[60] rounded-lg bg-accent-blue px-4 py-2 text-sm font-medium text-background-page","children":"Skip to content"}],["$","div",null,{"className":"flex min-h-screen flex-col","children":[["$","$L2",null,{}],["$","main",null,{"id":"main-content","className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-border-subtle bg-background-section","children":["$","div",null,{"className":"mx-auto flex max-w-7xl items-center justify-between px-6 py-6 lg:px-8","children":[["$","p",null,{"className":"text-sm text-text-muted","children":["© ",2026," ","Jitendra Santosh Varma Kosuri",". All rights reserved."]}],["$","a",null,{"href":"#home","aria-label":"Back to top","className":"rounded-lg p-2 text-text-muted transition-colors hover:bg-[rgba(148,163,184,0.08)] hover:text-text-secondary","children":["$","svg",null,{"className":"h-5 w-5","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","xmlns":"http://www.w3.org/2000/svg","children":["$","polyline",null,{"points":"18 15 12 9 6 15"}]}]}]]}]}]]}],["$","$L5",null,{}]]}]]}]]}],{"children":["articles",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","the-new-bottleneck-in-ai-driven-organizations-isnt-code-its-decisions","d"],["$","$1","c",{"children":[null,["$","$L6",null,{"Component":"$7","slots":{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L8",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{"slug":"the-new-bottleneck-in-ai-driven-organizations-isnt-code-its-decisions"},"promise":"$@9"}]]}],{"children":["__PAGE__","$La",{},null,false]},null,false]},null,false]},null,false],"$Lb",false]],"m":"$undefined","G":["$c",[]],"s":false,"S":true}
+e:I[4431,[],"OutletBoundary"]
+10:I[5278,[],"AsyncMetadataOutlet"]
+12:I[4431,[],"ViewportBoundary"]
+14:I[4431,[],"MetadataBoundary"]
+15:"$Sreact.suspense"
+a:["$","$1","c",{"children":["$Ld",null,["$","$Le",null,{"children":["$Lf",["$","$L10",null,{"promise":"$@11"}]]}]]}]
+b:["$","$1","h",{"children":[null,[["$","$L12",null,{"children":"$L13"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L14",null,{"children":["$","div",null,{"hidden":true,"children":["$","$15",null,{"fallback":null,"children":"$L16"}]}]}]]}]
+9:"$0:f:0:1:2:children:2:children:1:props:children:1:props:params"
+d:[["$","script",null,{"id":"article-schema","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"The New Bottleneck in AI-Driven Organizations Isn't Code — It's Decisions\",\"description\":\"AI has dramatically reduced the cost of building software, but organizations are discovering a new bottleneck: decision-making. Learn why prioritization, ownership, and system coherence matter more than ever.\",\"datePublished\":\"2026-04-29\",\"dateModified\":\"2026-04-29\",\"author\":{\"@type\":\"Person\",\"name\":\"Jitendra Santosh Varma Kosuri\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Jitendra Santosh Varma Kosuri\",\"url\":\"https://jsvkosuri.com\"},\"image\":\"/images/articles/ai-decision-bottleneck.png\",\"url\":\"https://jsvkosuri.com/articles/the-new-bottleneck-in-ai-driven-organizations-isnt-code-its-decisions\"}"}}],["$","script",null,{"id":"breadcrumb-schema","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://jsvkosuri.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Articles\",\"item\":\"https://jsvkosuri.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"The New Bottleneck in AI-Driven Organizations Isn't Code — It's Decisions\",\"item\":\"https://jsvkosuri.com/articles/the-new-bottleneck-in-ai-driven-organizations-isnt-code-its-decisions\"}]}"}}],"$L17"]
+18:T1c57,<p>In a previous article, we looked at the first trap AI creates:</p>
+<blockquote>
+<p>We can write code faster than we can understand it.</p>
+</blockquote>
+<p>Let's assume you've solved that.</p>
+<p>Your team slows down just enough. Pull requests are reviewed properly. Systems remain clean and maintainable.</p>
+<p>No chaos. No obvious dysfunction.</p>
+<p>On paper, everything looks healthy.</p>
+<p>And yet...</p>
+<p>Something still feels off.</p>
+<hr>
+<h2>A Familiar Scene (Now Accelerated)</h2>
+<p>A product leader walks into a quarterly review.</p>
+<p>The dashboard looks excellent:</p>
+<ul>
+<li>More features shipped than last quarter</li>
+<li>Cycle time is down</li>
+<li>AI adoption is up</li>
+<li>Cost per ticket is lower</li>
+</ul>
+<p>Everything signals progress.</p>
+<p>Then the questions begin:</p>
+<ul>
+<li>Why are customers still confused?</li>
+<li>Why are teams building similar features?</li>
+<li>Why does every workflow feel slightly different?</li>
+<li>Why are we reworking things we just shipped?</li>
+</ul>
+<p>There’s no clear answer.</p>
+<p>Because the problem isn't visible in the metrics.</p>
+<hr>
+<h2>We've Seen This Before — Just Slower</h2>
+<p>This pattern isn't new.</p>
+<p>In large-scale platform organizations operating with autonomous teams, local optimization has always created overlap, fragmentation, and inconsistent user experiences.</p>
+<p>But there was a natural constraint:</p>
+<p><strong>Execution was expensive.</strong></p>
+<p>Time, effort, and coordination acted as filters.</p>
+<p>Not everything could be built.</p>
+<p>Bad decisions had limits.</p>
+<hr>
+<h2>AI Removes That Filter</h2>
+<p>Now that filter is weaker.</p>
+<p>The initial act of building has become dramatically cheaper.</p>
+<p>Multiple teams can:</p>
+<ul>
+<li>Explore the same idea</li>
+<li>Prototype in parallel</li>
+<li>Ship in days</li>
+</ul>
+<p>What once acted as a natural gate—cost, time, and effort—is no longer doing its job.</p>
+<p>Ideas that would have been rejected earlier now make it into production.</p>
+<p>Not because they are better.</p>
+<p>Because they are easier to build.</p>
+<hr>
+<h2>And That's the Problem</h2>
+<p>When the cost of building drops, the discipline of prioritization often drops with it.</p>
+<p>Resource constraints fade.</p>
+<p>Justification becomes lighter.</p>
+<p>Sequencing becomes optional.</p>
+<p>So instead of choosing carefully—</p>
+<p>Teams build freely.</p>
+<hr>
+<h2>What This Looks Like in Practice</h2>
+<p>Take a typical enterprise platform.</p>
+<h3>Six Months Ago</h3>
+<ul>
+<li>One reporting system</li>
+<li>One workflow</li>
+<li>Clear ownership</li>
+</ul>
+<h3>Today</h3>
+<ul>
+<li>One team builds a dashboard generator</li>
+<li>Another adds an AI-powered summary layer</li>
+<li>A third creates a custom reporting workflow</li>
+</ul>
+<p>Each solution is useful.</p>
+<p>Each ships quickly.</p>
+<p>None are aligned.</p>
+<p>The result:</p>
+<ul>
+<li>Multiple reporting experiences for customers</li>
+<li>Conflicting data definitions</li>
+<li>Overlapping systems to maintain</li>
+<li>Increasing coordination overhead</li>
+</ul>
+<p>From the outside:</p>
+<blockquote>
+<p>Innovation.</p>
+</blockquote>
+<p>From the inside:</p>
+<blockquote>
+<p>Fragmentation.</p>
+</blockquote>
+<p>And while building felt cheap, maintaining all of this is not.</p>
+<hr>
+<h2>Fixing Code Didn't Fix This</h2>
+<p>Even with:</p>
+<ul>
+<li>Clean code</li>
+<li>Strong reviews</li>
+<li>Good engineering discipline</li>
+</ul>
+<p>You still end up here.</p>
+<p>Because the issue isn't <em>how</em> things are built.</p>
+<p>It's <em>why</em> they're built.</p>
+<hr>
+<h2>When Execution Speeds Up, Decision Cost Explodes</h2>
+<p>This is the shift most organizations haven't fully internalized.</p>
+<h3>Before</h3>
+<ul>
+<li>Execution was the bottleneck</li>
+<li>Decisions were naturally constrained</li>
+</ul>
+<h3>Now</h3>
+<ul>
+<li>Execution is fast</li>
+<li>The system cost of decisions is delayed</li>
+</ul>
+<p>And delayed costs are dangerous.</p>
+<p>Because by the time they show up—</p>
+<p>They're embedded across teams, systems, and workflows.</p>
+<p>Unconstrained decisions don't create freedom.</p>
+<p>They create noise.</p>
+<hr>
+<h2>The Metrics Still Look Great</h2>
+<p>That's what makes this dangerous.</p>
+<p>Dashboards continue to show:</p>
+<ul>
+<li>Velocity ↑</li>
+<li>Throughput ↑</li>
+<li>Cost per task ↓</li>
+</ul>
+<p>Because these are easy to measure.</p>
+<p>They fit reporting cycles.</p>
+<p>They map cleanly to team-level performance.</p>
+<p>But they miss what actually matters:</p>
+<ul>
+<li>Redundant work across teams</li>
+<li>Misaligned priorities</li>
+<li>System-level inconsistency</li>
+</ul>
+<p>So leadership pushes for more:</p>
+<ul>
+<li>More output</li>
+<li>More speed</li>
+<li>More AI adoption</li>
+</ul>
+<p>Without realizing they're scaling fragmentation.</p>
+<hr>
+<h2>The Bottleneck Has Moved</h2>
+<p>AI didn't eliminate constraints.</p>
+<p>It relocated them.</p>
+<p><strong>From engineering → to leadership.</strong></p>
+<p>Because now the hard problems are:</p>
+<ul>
+<li>Saying no when everything is possible</li>
+<li>Defining clear ownership boundaries</li>
+<li>Maintaining coherence across fast-moving teams</li>
+</ul>
+<p>Most organizations aren't built for this.</p>
+<p>They're designed to scale execution—not judgment.</p>
+<p>And most incentives still reward:</p>
+<ul>
+<li>Shipping more</li>
+<li>Moving faster</li>
+<li>Showing visible progress</li>
+</ul>
+<p>Not maintaining system coherence.</p>
+<p>So optimization becomes local.</p>
+<p>And fragmentation becomes inevitable.</p>
+<hr>
+<h2>What Effective Teams Are Doing Differently</h2>
+<p>The best teams aren't slowing AI down.</p>
+<p>They're tightening decision-making.</p>
+<p>Not through intent.</p>
+<p>Through structure.</p>
+<p>They introduce mechanisms such as:</p>
+<h3>Clear Domain Ownership</h3>
+<p>One team owns a problem space end-to-end.</p>
+<h3>Early Overlap Detection</h3>
+<p>Competing initiatives are surfaced and resolved before they ship.</p>
+<h3>Kill Criteria</h3>
+<p>Projects are actively shut down when duplication appears.</p>
+<h3>Architecture Gates</h3>
+<p>New systems must justify their existence—not just their value.</p>
+<h3>System-Level Metrics</h3>
+<p>Success is measured across the customer experience, not per team.</p>
+<p>In other words:</p>
+<blockquote>
+<p>They reintroduce friction—intentionally.</p>
+</blockquote>
+<hr>
+<h2>The Real Shift</h2>
+<p>You fixed low-quality code.</p>
+<p>That was the first problem.</p>
+<p>The deeper one remains:</p>
+<blockquote>
+<p>Execution is no longer the bottleneck. Decision-making is.</p>
+</blockquote>
+<hr>
+<h2>The Question That Matters Now</h2>
+<p>If your team can build almost anything—</p>
+<p>How do you decide what's worth building?</p>
+<p>Because in an AI-driven organization:</p>
+<ul>
+<li>Speed is abundant</li>
+<li>Output is easy</li>
+</ul>
+<p>But clarity is rare.</p>
+<hr>
+<h2>Closing Thought</h2>
+<p>AI didn't make organizations smarter.</p>
+<p>It made them faster.</p>
+<p>And speed without direction doesn't create advantage—</p>
+<p>It amplifies mistakes.</p>
+<p>In a world where almost anything can be built, competitive advantage doesn't come from building more.</p>
+<p>It comes from deciding—early and clearly—what <strong>not</strong> to build.</p>
+17:["$","article",null,{"className":"animate-fade-up","children":[["$","div",null,{"className":"relative h-48 sm:h-64 md:h-80 lg:h-96","children":[["$","div",null,{"className":"absolute inset-0 bg-gradient-to-br from-accent-blue/10 via-background-elevated to-accent-purple/10"}],["$","img",null,{"src":"/images/articles/ai-decision-bottleneck.png","alt":"The New Bottleneck in AI-Driven Organizations Isn't Code — It's Decisions","width":1200,"height":514,"fetchPriority":"low","className":"h-full w-full object-cover","loading":"lazy","decoding":"async"}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-background-page via-transparent to-transparent"}]]}],["$","div",null,{"className":"mx-auto max-w-3xl px-6 py-12 lg:px-8","children":[["$","div",null,{"className":"mb-6 flex items-center gap-3","children":[["$","span",null,{"className":"inline-flex items-center rounded-md px-2.5 py-0.5 text-xs font-medium bg-[rgba(56,189,248,0.12)] text-accent-blue","children":"AI Strategy"}],["$","span",null,{"className":"text-sm text-text-muted","children":["2026-04-29"," · ","6 min read"]}]]}],["$","h1",null,{"className":"font-display font-bold leading-tight tracking-tight text-text-primary text-h1","children":"The New Bottleneck in AI-Driven Organizations Isn't Code — It's Decisions"}],["$","p",null,{"className":"mt-4 text-lg leading-relaxed text-text-muted sm:text-xl","children":"As AI accelerates execution, decision-making becomes the new organizational constraint."}],["$","div",null,{"className":"my-10 h-px bg-gradient-to-r from-transparent via-border-subtle to-transparent"}],["$","div",null,{"className":"prose prose-invert prose-lg max-w-none prose-headings:font-display prose-headings:font-semibold prose-headings:text-text-primary prose-h1:text-h2 prose-h2:text-h2 prose-h3:text-h3 prose-h4:text-h3 prose-p:text-text-secondary prose-p:leading-relaxed prose-a:text-accent-blue prose-a:no-underline prose-a:hover:underline prose-strong:text-text-primary prose-strong:font-semibold prose-blockquote:border-accent-blue prose-blockquote:bg-background-elevated/50 prose-blockquote:py-2 prose-blockquote:px-4 prose-blockquote:rounded-lg prose-code:text-accent-cyan prose-code:bg-background-elevated/50 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-pre:bg-background-elevated prose-pre:border prose-pre:border-border-subtle prose-pre:rounded-lg prose-ul:list-disc prose-ol:list-decimal prose-li:text-text-secondary prose-img:rounded-lg prose-img:shadow-card prose-hr:border-border-subtle","dangerouslySetInnerHTML":{"__html":"$18"}}]]}]]}]
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:null
+19:I[622,[],"IconMark"]
+11:{"metadata":[["$","title","0",{"children":"The New Bottleneck in AI-Driven Organizations Isn't Code — It's Decisions | Jitendra Santosh Varma Kosuri"}],["$","meta","1",{"name":"description","content":"AI has dramatically reduced the cost of building software, but organizations are discovering a new bottleneck: decision-making. Learn why prioritization, ownership, and system coherence matter more than ever."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"AI Strategy,Enterprise GenAI,Multi-Agent Systems,RAG Architecture,Enterprise AI,Solution Architecture,Platform Engineering,AI Transformation"}],["$","link","4",{"rel":"canonical","href":"https://jsvkosuri.com/articles/the-new-bottleneck-in-ai-driven-organizations-isnt-code-its-decisions"}],["$","meta","5",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","6",{"name":"apple-mobile-web-app-title","content":"JSV Kosuri"}],["$","meta","7",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","meta","8",{"property":"og:title","content":"The New Bottleneck in AI-Driven Organizations Isn't Code — It's Decisions"}],["$","meta","9",{"property":"og:description","content":"AI has dramatically reduced the cost of building software, but organizations are discovering a new bottleneck: decision-making. Learn why prioritization, ownership, and system coherence matter more than ever."}],["$","meta","10",{"property":"og:url","content":"https://jsvkosuri.com/articles/the-new-bottleneck-in-ai-driven-organizations-isnt-code-its-decisions"}],["$","meta","11",{"property":"og:image","content":"https://jsvkosuri.com/images/articles/ai-decision-bottleneck.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"The New Bottleneck in AI-Driven Organizations Isn't Code — It's Decisions"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-04-29"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"The New Bottleneck in AI-Driven Organizations Isn't Code — It's Decisions"}],["$","meta","19",{"name":"twitter:description","content":"AI has dramatically reduced the cost of building software, but organizations are discovering a new bottleneck: decision-making. Learn why prioritization, ownership, and system coherence matter more than ever."}],["$","meta","20",{"name":"twitter:image","content":"https://jsvkosuri.com/images/articles/ai-decision-bottleneck.png"}],["$","link","21",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","link","22",{"rel":"apple-touch-icon","href":"/icons/icon-192.png"}],["$","$L19","23",{}]],"error":null,"digest":"$undefined"}
+16:"$11:metadata"
